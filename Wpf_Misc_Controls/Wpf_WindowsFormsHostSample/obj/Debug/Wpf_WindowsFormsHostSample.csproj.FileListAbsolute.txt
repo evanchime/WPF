@@ -1,0 +1,14 @@
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\bin\Debug\Wpf_WindowsFormsHostSample.exe.config
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\bin\Debug\Wpf_WindowsFormsHostSample.exe
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\bin\Debug\Wpf_WindowsFormsHostSample.pdb
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.csprojResolveAssemblyReference.cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\MainWindow.g.cs
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\App.g.cs
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample_MarkupCompile.cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample_MarkupCompile.lref
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\MainWindow.baml
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.g.resources
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.Properties.Resources.resources
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.csproj.GenerateResource.Cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.exe
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_Misc_Controls\Wpf_WindowsFormsHostSample\obj\Debug\Wpf_WindowsFormsHostSample.pdb

@@ -1,0 +1,15 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\bin\Debug\Wpf_ConverterSample.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\bin\Debug\Wpf_ConverterSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\bin\Debug\Wpf_ConverterSample.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ConverterSample\obj\Debug\Wpf_ConverterSample.pdb

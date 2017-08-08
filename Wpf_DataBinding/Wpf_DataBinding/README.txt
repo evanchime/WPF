@@ -1,0 +1,1 @@
+Implementation of databinding for manipulation of window size

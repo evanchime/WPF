@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\bin\Debug\WPFEvents_cs.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\bin\Debug\WPFEvents_cs.exe
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\bin\Debug\WPFEvents_cs.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.exe
+c:\users\evanc\documents\visual studio 2017\Projects\WPFEvents_cs\WPFEvents_cs\obj\Debug\WPFEvents_cs.pdb

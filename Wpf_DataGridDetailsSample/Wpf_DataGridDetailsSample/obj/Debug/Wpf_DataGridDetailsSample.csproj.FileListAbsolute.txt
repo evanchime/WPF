@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\bin\Debug\Wpf_DataGridDetailsSample.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\bin\Debug\Wpf_DataGridDetailsSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\bin\Debug\Wpf_DataGridDetailsSample.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataGridDetailsSample\Wpf_DataGridDetailsSample\obj\Debug\Wpf_DataGridDetailsSample.pdb

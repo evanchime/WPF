@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFEvents_cs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFEvents_cs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="501.973" Width="695.394">
+    <Grid>
+        <Button x:Name="Button" Content="Click Me" HorizontalAlignment="Left" Margin="97,109,0,0" VerticalAlignment="Top" Width="75" Height="45" Click="Button_Click"/>
+        <Label x:Name="MyLabel" Content="" HorizontalAlignment="Left" Margin="298,192,0,0" VerticalAlignment="Top" Height="81" Width="146"/>
+        <Label x:Name="myOtherLabel" Content="" HorizontalAlignment="Left" Margin="316,339,0,0" VerticalAlignment="Top" Height="58" Width="73"/>
+
+    </Grid>
+</Window>

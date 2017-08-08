@@ -1,0 +1,15 @@
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\bin\Debug\Wpf_DataBindingDebuggingSample.exe.config
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\bin\Debug\Wpf_DataBindingDebuggingSample.exe
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\bin\Debug\Wpf_DataBindingDebuggingSample.pdb
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.csprojResolveAssemblyReference.cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\MainWindow.g.cs
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\App.g.cs
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample_MarkupCompile.cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample_MarkupCompile.lref
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\MainWindow.baml
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.g.resources
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.Properties.Resources.resources
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.csproj.GenerateResource.Cache
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.exe
+C:\Users\evanc\Documents\Visual Studio 2017\Projects\Wpf_DataBinding\Wpf_DataBindingDebuggingSample\obj\Debug\Wpf_DataBindingDebuggingSample.pdb

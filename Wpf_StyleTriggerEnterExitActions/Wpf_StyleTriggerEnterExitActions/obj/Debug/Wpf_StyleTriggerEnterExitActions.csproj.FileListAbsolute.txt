@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\bin\Debug\Wpf_StyleTriggerEnterExitActions.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\bin\Debug\Wpf_StyleTriggerEnterExitActions.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\bin\Debug\Wpf_StyleTriggerEnterExitActions.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_StyleTriggerEnterExitActions\Wpf_StyleTriggerEnterExitActions\obj\Debug\Wpf_StyleTriggerEnterExitActions.pdb

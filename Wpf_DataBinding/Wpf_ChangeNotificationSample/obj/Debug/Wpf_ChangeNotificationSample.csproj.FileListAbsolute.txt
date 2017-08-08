@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\bin\Debug\Wpf_ChangeNotificationSample.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\bin\Debug\Wpf_ChangeNotificationSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\bin\Debug\Wpf_ChangeNotificationSample.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_DataBinding\Wpf_ChangeNotificationSample\obj\Debug\Wpf_ChangeNotificationSample.pdb

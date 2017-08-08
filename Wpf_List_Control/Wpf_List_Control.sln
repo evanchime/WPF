@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_List_Control", "Wpf_List_Control\Wpf_List_Control.csproj", "{F5923D6A-86D0-4BCB-B5D9-73769E7A464A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_ComboBoxSelectionSample", "Wpf_ComboBoxSelectionSample\Wpf_ComboBoxSelectionSample.csproj", "{C4AA868C-45C1-400A-B8D0-30929F636BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5923D6A-86D0-4BCB-B5D9-73769E7A464A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5923D6A-86D0-4BCB-B5D9-73769E7A464A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5923D6A-86D0-4BCB-B5D9-73769E7A464A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5923D6A-86D0-4BCB-B5D9-73769E7A464A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AA868C-45C1-400A-B8D0-30929F636BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AA868C-45C1-400A-B8D0-30929F636BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AA868C-45C1-400A-B8D0-30929F636BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AA868C-45C1-400A-B8D0-30929F636BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

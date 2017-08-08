@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\bin\Debug\Wpf_ToolbarSample.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\bin\Debug\Wpf_ToolbarSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\bin\Debug\Wpf_ToolbarSample.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_ToolbarSample\obj\Debug\Wpf_ToolbarSample.pdb

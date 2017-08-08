@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\bin\Debug\Wpf_Common_Interface_Controls.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\bin\Debug\Wpf_Common_Interface_Controls.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\bin\Debug\Wpf_Common_Interface_Controls.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Common_Interface_Controls\Wpf_Common_Interface_Controls\obj\Debug\Wpf_Common_Interface_Controls.pdb

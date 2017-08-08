@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Misc_Controls", "Wpf_Misc_Controls\Wpf_Misc_Controls.csproj", "{880FE357-8E22-4B0F-89E7-B83AB5254564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_WebBrowserControlSample", "Wpf_WebBrowserControlSample\Wpf_WebBrowserControlSample.csproj", "{98789056-AE8B-4709-8057-5C6E201E6B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_WindowsFormsHostSample", "Wpf_WindowsFormsHostSample\Wpf_WindowsFormsHostSample.csproj", "{B78FDAE5-E996-4D9E-83DA-F5F5E3ADDD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880FE357-8E22-4B0F-89E7-B83AB5254564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880FE357-8E22-4B0F-89E7-B83AB5254564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880FE357-8E22-4B0F-89E7-B83AB5254564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880FE357-8E22-4B0F-89E7-B83AB5254564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98789056-AE8B-4709-8057-5C6E201E6B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98789056-AE8B-4709-8057-5C6E201E6B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98789056-AE8B-4709-8057-5C6E201E6B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98789056-AE8B-4709-8057-5C6E201E6B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78FDAE5-E996-4D9E-83DA-F5F5E3ADDD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78FDAE5-E996-4D9E-83DA-F5F5E3ADDD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78FDAE5-E996-4D9E-83DA-F5F5E3ADDD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78FDAE5-E996-4D9E-83DA-F5F5E3ADDD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

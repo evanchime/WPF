@@ -1,0 +1,13 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\bin\Debug\Wpf_WebBrowserControlSample.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\bin\Debug\Wpf_WebBrowserControlSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\bin\Debug\Wpf_WebBrowserControlSample.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_Misc_Controls\Wpf_WebBrowserControlSample\obj\Debug\Wpf_WebBrowserControlSample.pdb

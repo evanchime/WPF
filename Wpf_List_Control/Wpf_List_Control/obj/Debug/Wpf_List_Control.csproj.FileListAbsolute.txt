@@ -1,0 +1,14 @@
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\bin\Debug\Wpf_List_Control.exe.config
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\bin\Debug\Wpf_List_Control.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\bin\Debug\Wpf_List_Control.pdb
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.csprojResolveAssemblyReference.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\MainWindow.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\App.g.cs
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control_MarkupCompile.cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control_MarkupCompile.lref
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\MainWindow.baml
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.g.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.Properties.Resources.resources
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.csproj.GenerateResource.Cache
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.exe
+c:\users\evanc\documents\visual studio 2017\Projects\Wpf_List_Control\Wpf_List_Control\obj\Debug\Wpf_List_Control.pdb
